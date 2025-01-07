@@ -110,3 +110,25 @@ h2{
     border-radius: 10px;
     margin-bottom: 15px;
 }
+
+.main-two{
+    margin-top: 100px;
+    padding: 100px 305px;
+    background-color: #E5E7EB;
+}
+
+.main-two p{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.sub-text{
+    display: flex;
+    justify-content: end;
+    font-weight: 900;
+    color: #1F2937;
+    font-size: 24px;
+    padding-right: 15px;
+}
