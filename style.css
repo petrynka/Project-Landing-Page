@@ -132,3 +132,47 @@ h2{
     font-size: 24px;
     padding-right: 15px;
 }
+
+.sign-up{
+    padding: 70px 250px;
+}
+
+.sign-up-modal{
+    background-color: #3882F6;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    color: #F9FAF8;
+}
+
+.modal-button{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.modal-button .button{
+    border: #F9FAF8 2px solid;
+}
+
+.text-part h5{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.text-part p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding: 35px 0px;
+}
